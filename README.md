@@ -10,7 +10,7 @@ This is a static website design for a consulting firm.
 
 ### Screenshot
 
-![Website Screenshot](./img/screenshot.png 'Website Screenshot')
+![Website Screenshot](img/screenshot.jpeg 'Website Screenshot')
 
 ## Getting Started
 
